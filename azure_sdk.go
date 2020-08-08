@@ -1,4 +1,4 @@
-package azure_sdk
+package azuresdk
 
 import "fmt"
 
